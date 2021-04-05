@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamesblack3
-- 👀 I’m interested in software, web, and mobile app development.
+- 👀 I’m interested in software, web, video game, and mobile app development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects and hackathons.
 - 📫 you can reach me at https://www.linkedin.com/in/jamesrblack1/
